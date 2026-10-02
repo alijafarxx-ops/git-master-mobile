@@ -1,2 +1,29 @@
-# git-master-mobile
-تطبيق موبايل تعليمي شامل لإتقان أوامر Git المتقدمة - Advanced Git Commands Learning App
+# Git Master
+
+تطبيق موبايل عربي لتعليم أوامر Git المتقدمة بطريقة سريعة ومباشرة.
+
+## ما الذي يحتوي عليه التطبيق؟
+- git stash
+- git cherry-pick
+- git revert
+- git reset
+- شرح لكل أمر
+- أمثلة عملية
+- إمكانية نسخ الأوامر بسهولة
+
+## التشغيل
+
+1. تثبيت الاعتماديات:
+   ```bash
+   npm install
+   ```
+
+2. تشغيل التطبيق:
+   ```bash
+   npx expo start
+   ```
+
+3. افتح تطبيق Expo Go على الهاتف وقم بمسح رمز QR.
+
+## ملاحظات
+هذا المشروع تم إنشاؤه كـ Expo app، وهو مناسب للاستخدام السريع على Android و iPhone عبر Expo Go.
